@@ -209,3 +209,13 @@ This methodology is released under the MIT License. You are free to use, modify,
 ---
 
 *Maintained by [GEOScore](https://geoscoreai.com) — AI Search Visibility Scanner*
+
+## All GEOScore Open Source Projects
+
+| Project | Description |
+|---------|-------------|
+| [awesome-geo](https://github.com/henu-wang/awesome-geo) | Curated list of GEO resources |
+| [geo-scoring-methodology](https://github.com/henu-wang/geo-scoring-methodology) | This project |
+| [ai-robots-txt-generator](https://github.com/henu-wang/ai-robots-txt-generator) | Robots.txt generator tool |
+| [geo-checklist](https://github.com/henu-wang/geo-checklist) | Interactive readiness checklist |
+| [ai-crawlers-reference](https://github.com/henu-wang/ai-crawlers-reference) | AI crawler database |
