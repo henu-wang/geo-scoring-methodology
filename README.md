@@ -4,6 +4,14 @@ An open methodology for evaluating how well a website is optimized for AI search
 
 This scoring system is used by [GEOScore](https://geoscoreai.com) to assess website readiness for AI-powered search engines like ChatGPT, Perplexity, Google AI Overviews, and Gemini.
 
+## Online Tools
+
+See the methodology in action with these free tools — no installation needed:
+
+- **[Full GEO Scan](https://geoscoreai.com)** — Run all 11 checks automatically and get your GEO Score
+- **[AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator)** — Generate an optimized robots.txt for AI crawlers
+- **[AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker)** — Check if AI search engines can access your site
+
 ## Why This Matters
 
 AI search engines are fundamentally changing how people discover information. Unlike traditional search engines that rank pages in a list, AI engines:
